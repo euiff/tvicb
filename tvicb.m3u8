@@ -82,7 +82,8 @@ http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTkZ6Xy1mkYuxyet8pmAOjVZnclaoyLHCVmjMRS=s176-c-k-c0x00ffffff-no-rj", TV ICB CATALÃO  - LIVE
 https://ythls.onrender.com/channel/UCM9f8csKY8fgwWTdDAEymNA.m3u8
 
-
+#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTkZ6Xy1mkYuxyet8pmAOjVZnclaoyLHCVmjMRS=s176-c-k-c0x00ffffff-no-rj", TV ICB santos  - LIVE
+https://ythls.onrender.com/channel/TVICBSANTOS?si=aLajwouN9nMT85Hs.m3u8
 
 
 
