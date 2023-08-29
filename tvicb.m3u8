@@ -1,16 +1,16 @@
 #EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/7zObALrWQCXE7VMQkvhQQ24vnQq1Q-Dqtb-ZozhVGiu4r1b4E4tTCuT8r_O2RkP_8RjzmPP5tQ", TV A Crítica
 https://livegarra.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 
-#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/2SPmJuBs90bHSLOfYO14OIcdr-uxzeRUCNiEtS91bLcPDbQq3Es343KjlYfWQwLz8Ve2Y8_h", TV Aparecida
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/2SPmJuBs90bHSLOfYO14OIcdr-uxzeRUCNiEtS91bLcPDbQq3Es343KjlYfWQwLz8Ve2Y8_h", TV Aparecida
 https://livegarra.onrender.com/channel/UCfYrK5JU5EznsnK3wQE7iIg.m3u8
+
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO", TV Canção Nova
+https://livegarra.onrender.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
 
 #EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO", TV Canção Nova
 https://livegarra.onrender.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/NlmXFhK3JMZqsMltQPvfjhVWcOlvgKlhrgo_3i74wiKAidhqcV272CAW6lFLFqp0HSSTCgbO", TV Canção Nova
-https://livegarra.onrender.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw.m3u8
-
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jSRvAzXNfPV7NqNyRL4iR5BDZxAbmQomgAe0GRqJB5VDga5rnT8c-O8DH12DtvA-zrSGTL3oRQ", TV Correio
+#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/jSRvAzXNfPV7NqNyRL4iR5BDZxAbmQomgAe0GRqJB5VDga5rnT8c-O8DH12DtvA-zrSGTL3oRQ", TV Correio
 https://livegarra.onrender.com/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/IkM2935IWbnhyf1pu1Q1aBJvFviAA1ApNWsLE4WQCQJrNqBN9Uy5GGlVvW0S2Ri39_MqYJJP", TV Derana - LIVE
@@ -25,7 +25,7 @@ https://livegarra.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
 #EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/6QdyAy4WlScqOZ6_1qLcuhMTQQmTnARVE1f-JX17Jk7ckjNIz5zW42DM16jw6I1wFBo0HiUCrg", TV Senado
 https://livegarra.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
 
-#EXTINF:-1 group-title="" tvg-language="" tvg-logo="https://yt3.ggpht.com/jfvjWOkLmb9qwyRAGjRMXcGKjloHsP34CCNnOP__Et06WGtSfkmp1OFd9MnFl7OI9FCXUA28", TV Senado
+#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/jfvjWOkLmb9qwyRAGjRMXcGKjloHsP34CCNnOP__Et06WGtSfkmp1OFd9MnFl7OI9FCXUA28", TV Senado
 https://livegarra.onrender.com/video/ZcSJUDrIBQg.m3u8
 
 #EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/nJHhdyAgIRqZoLn0IBIjzxArTc2mzPI9TB23phmurT94uS-1jwaGIWgkvWqwFYLoNt5yR-7Ne0I", TV Serra Dourada SBT
@@ -58,38 +58,41 @@ https://livegarra.onrender.com/channel/UCjoAMfyUFKLL_yopUQbd3Fg.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/tbc.png" group-title="ABERTA" ,TV Brasil Central - Cultura (GO)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades",Agro Mais 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades" ,Agro Mais 
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades" ,Terra Viva 
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="Variedades",Canal Rural 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalrural.png" group-title="Variedades" ,Canal Rural 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="ABERTA" , RedeTV! Tocantins 
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades",AgroBrasil TV 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Variedades" ,AgroBrasil TV 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso" ,Rede Gospel 
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Religioso", FonteTV (GO) 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Religioso" , FonteTV (GO) 
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
-#EXTINF:-1 group-title="Religioso"  tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTkZ6Xy1mkYuxyet8pmAOjVZnclaoyLHCVmjMRS=s176-c-k-c0x00ffffff-no-rj", TV ICB CATALÃO  - LIVE
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTkZ6Xy1mkYuxyet8pmAOjVZnclaoyLHCVmjMRS=s176-c-k-c0x00ffffff-no-rj", TV ICB CATALÃO  - LIVE
 https://livegarra.onrender.com/channel/UCM9f8csKY8fgwWTdDAEymNA.m3u8
 
-#EXTINF:-1 group-title="Radio"  tvg-logo="https://yt3.ggpht.com/QumhxgM2ovWfOQWYCDdBWAhPMEMVeV1DJOS4bU-6Dpd5tSe5xwZYxl6VGJErZFZEJkh8xSyH", Rádio David Quinlan 
+#EXTINF:-1 group-title="Radio" tvg-logo="https://yt3.ggpht.com/QumhxgM2ovWfOQWYCDdBWAhPMEMVeV1DJOS4bU-6Dpd5tSe5xwZYxl6VGJErZFZEJkh8xSyH", Rádio David Quinlan 
 https://livegarra.onrender.com/channel/UCLU6yeXTYNTaNOq7LUGzDcw.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS"  tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", CNN BRASIL 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", CNN BRASIL 
 https://livegarra.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS"  tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", JOVEM PAM NEWS 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", JOVEM PAM NEWS 
 https://livegarra.onrender.com/channel/UCP391YRAjSOdM_bwievgaZA.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", RECORD NEWS 
+https://livegarra.onrender.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw.m3u8
 
 
 
