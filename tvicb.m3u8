@@ -90,7 +90,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Religioso" , FonteTV (GO) 
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
-#EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaTkZ6Xy1mkYuxyet8pmAOjVZnclaoyLHCVmjMRS=s176-c-k-c0x00ffffff-no-rj", TV ICB CATALÃO  - LIVE
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://play-lh.googleusercontent.com/mEDL986JaAc0fzeUVV-d_kL4Z61UmuzItdTcp7RmS0Lp8qx2LhIQeiuFgIgqFvKPrAo", TV ICB CATALÃO  - LIVE
 https://livegarra.onrender.com/channel/UCM9f8csKY8fgwWTdDAEymNA.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://yt3.ggpht.com/QumhxgM2ovWfOQWYCDdBWAhPMEMVeV1DJOS4bU-6Dpd5tSe5xwZYxl6VGJErZFZEJkh8xSyH", Rádio David Quinlan 
@@ -113,6 +113,9 @@ https://livegarra.onrender.com/channel/UC5RJojdvhwQXjLYLobHmC6Q.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.bobzoom.com.br/wp-content/themes/BobZoom/assets/img/bobzoom.png", Bob Zoom 
 https://livegarra.onrender.com/channel/UCZcsG6kUpOLQZZpTMSAernw.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://cdn.awsli.com.br/300x300/1238/1238683/produto/16182225306a7bb5fd8.jpg", Léo, o caminhão 
+https://livegarra.onrender.com/video/MiyuKjNPui8.m3u8
 
 
 
