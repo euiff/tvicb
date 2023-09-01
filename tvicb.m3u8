@@ -3,8 +3,11 @@
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png", Rádio BandNews FM
 https://livegarra.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
 
-#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/7zObALrWQCXE7VMQkvhQQ24vnQq1Q-Dqtb-ZozhVGiu4r1b4E4tTCuT8r_O2RkP_8RjzmPP5tQ", TV A Crítica
+#EXTINF:-1 group-title="ABERTA" tvg-logo="https://medias.prism.agilesvcs.com/IMAGES/00/00/00/4163_3CBC0CED79D4412E.png", REDE TV 
 https://livegarra.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+
+#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/7zObALrWQCXE7VMQkvhQQ24vnQq1Q-Dqtb-ZozhVGiu4r1b4E4tTCuT8r_O2RkP_8RjzmPP5tQ", TV A Crítica
+https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
 
 #EXTINF:-1 group-title="Religioso" tvg-logo="https://yt3.ggpht.com/2SPmJuBs90bHSLOfYO14OIcdr-uxzeRUCNiEtS91bLcPDbQq3Es343KjlYfWQwLz8Ve2Y8_h", TV Aparecida
 https://livegarra.onrender.com/channel/UCfYrK5JU5EznsnK3wQE7iIg.m3u8
@@ -129,7 +132,7 @@ https://livegarra.onrender.com/channel/UC5UtCpmlRl32K9jKsOvQvkQ.m3u8
 #EXTINF:-1 group-title="PUBLICA" tvg-logo="https://yt3.ggpht.com/ytc/AOPolaQ5Ht5a1jLaCuhyij-KADXKdULF9UW0mv8SFfLLhg", TV ALEGO
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 
-#EXTINF:-1 group-title="ABERTA" tvg-logo="https://yt3.ggpht.com/7zObALrWQCXE7VMQkvhQQ24vnQq1Q-Dqtb-ZozhVGiu4r1b4E4tTCuT8r_O2RkP_8RjzmPP5tQ", TV AHANGUERA CATALÃO
+#EXTINF:-1 group-title="ABERTA" tvg-logo="https://www.promoview.com.br/wp-content/uploads/2009/12/tv-anhanguera.png", TV AHANGUERA CATALÃO
 https://live-as-01-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDEtMDMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkzNjgzMDEzLCJpYXQiOjE2OTM1OTY2MTMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjBjMTMzOGYtZTNlMi00YjM1LThlMDItNzY5MTFjMTczNzc2IiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxpPTIpL2dsb2JvLWNhdC9wbGF5bGlzdC5tM3U4In0.XQI_W8y5NjAyaoW8iYZ1_UAvaDanCiEzTYcaZOm-xxmKYKtEyPVquZT35tA-VSc24EMC5weZtSa8xEUnqLX14nYjkvwluSPOlIL4L7psiB8AGo37rPXTDjPROpfO9fOyl-PL6GPnWa7_vp9TpU1uOxg-0FHWPs_f_O3cpR3VValyUHcJHdJI2TPswjgiCPCVVCtzytp2SWuVXT082CXxQHyqWQHiL2PtdVw7ndJo1dpiPtHInOv-PX-rqy9U89Zk969nA6V34IGnzE8xSAEsJ4nu9kzCitYQSKaPdgaNFtJnJC40xGYuTqzjW8axWtIvdqkbm_n2DnyaJvC-dsppsA/nu/f(bMin=2000,i=2)/globo-cat/globo-cat-audio_1=96000-video=3442944.m3u8
 
 
