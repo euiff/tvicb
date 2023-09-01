@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+Oi#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png", Rádio BandNews FM
 https://livegarra.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
