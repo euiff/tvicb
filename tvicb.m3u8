@@ -72,6 +72,9 @@ https://livegarra.onrender.com/channel/UCjoAMfyUFKLL_yopUQbd3Fg.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/03/tbc.png" group-title="ABERTA" ,TV Brasil Central - Cultura (GO)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 
+#EXTINF:-1 group-title="Religioso" tvg-logo="https://redebrasiloficial.com.br/images/logo_rbc_mini.png", REDE BRASIL OFICIAL
+https://livegarra.onrender.com/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="Variedades" ,Agro Mais 
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 
